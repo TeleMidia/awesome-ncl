@@ -309,6 +309,5 @@ A non-extensive list of news about Ginga and NCL.
   * [Manoel Campos' Home Page](http://manoelcampos.com)
   * [TVDI](http://www.tvdi.inf.br/site)
   * [Grupo Ginga Goias](http://grupogingagoias.com.br)
-  * [Ginga TV Digital]http://gingatvdigital.com)
-
+  * [Ginga TV Digital](http://gingatvdigital.com)
 
