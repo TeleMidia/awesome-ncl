@@ -1,3 +1,5 @@
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 # Awesome NCL
 
 [Nested Context Language (NCL)](http://www.ncl.org.br) is an XML-based
