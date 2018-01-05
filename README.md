@@ -4,19 +4,19 @@
 
 [Nested Context Language (NCL)](http://www.ncl.org.br) is an XML-based
 declarative language to support the development of interactive multimedia
-presentations.  It is part of [Ginga](http://www.ginga.org.br) an
+presentations.  It is part of [Ginga](http://www.ginga.org.br), an
 [ISDB-T](http://en.wikipedia.org/wiki/SBTVD) international standard for
-Terrestrial Digital TV, and an [ITU-T
+Terrestrial Digital TV and [ITU-T
 recommendation](http://www.itu.int/rec/T-REC-H.761) for IPTV services.
 
-This page is a curated lists of resources supporting NCL.
+This page is a curated lists of resources supporting NCL and Ginga.
 
 
 ## Applications, Players, and Plugins for NCL viewing
 
 ### Open source players
 
-  * [Ginga-NCL Reference Implementation](http://github.com/telemidia/ginga) is
+  * [Ginga Reference Implementation](http://github.com/telemidia/ginga) is
     the ITU-T reference NCL player mainly developed by
     [TeleMídia Lab/PUC-Rio](http://www.telemidia.puc-rio.br).
   * [Ginga.ar](http://tvd.lifia.info.unlp.edu.ar/ginga.ar/index.php/download)
