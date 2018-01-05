@@ -8,6 +8,7 @@ recommendation](http://www.itu.int/rec/T-REC-H.761) for IPTV services.
 
 This page is a curated lists of resources supporting NCL.
 
+
 ## Applications, Players, and Plugins for NCL viewing
 
 ### Open source players
@@ -15,7 +16,7 @@ This page is a curated lists of resources supporting NCL.
   * [Ginga-NCL Reference Implementation](http://github.com/telemidia/ginga) is
     the ITU-T reference NCL player mainly developed by
     [TeleMídia Lab/PUC-Rio](http://www.telemidia.puc-rio.br).
-  * [Ginga.ar](http://tvd.lifia.info.unlp.edu.ar/ginga.ar/index.php/download)is
+  * [Ginga.ar](http://tvd.lifia.info.unlp.edu.ar/ginga.ar/index.php/download) is
     a fork of Ginga-NCL Reference Implementation being developed by the
     Argentine Community.
   * [GHTV NCL Player](https://github.com/expertisesolutions/ghtv-ncl-player)
@@ -221,4 +222,93 @@ of:
 ### Slides and courses material
   * [Programming in NCL and NCLua](http://www.telemidia.puc-rio.br/~lfgs/doku.php?id=extensao:programandoncl)
     (portuguese) by Prof. Luiz Fernando Gomes Soares.
+
+
+## Application Examples
+
+### Repositories
+
+  * [NCL Club](http://club.ncl.org.br) is a repository of complete NCL applications.
+  * [Digital TV Applications by Brazilian Communication Ministry](http://gingabr.comunicacoes.gov.br)
+    is a repository of t-government interactive applications.
+  * [Ginga.ar Application Examples](http://tvd.lifia.info.unlp.edu.ar/ginga.ar/index.php/apps-menu)
+  * [GingaAPPS](https://github.com/rmcs87/GingaAPPS)
+
+### Test suites
+
+  * [ITU-T - Ginga-NCL Test Suite](http://testsuite.gingancl.org.br)
+  * [Ginga.ar Test Suite](http://tvd.lifia.info.unlp.edu.ar/ginga.ar/index.php/testsuite-menu)
+
+### Showcases
+
+  * [Remote Lab - UFSC](https://www.youtube.com/embed/UkDDCmK5q9c)
+  * [Conheça o Brasil 4D](http://www.youtube.com/embed/T5hE0l_NkfY)
+  * [Aplicativo Interativo Aprendiz (Rede Record)](https://www.youtube.com/watch?v=NpzFlAHdXR8)
+  * [Aplicativo Interativo Ídolos (Rede Record)](https://www.youtube.com/watch?v=VOjQMAl0fec)
+  * [Projeto Trapézio (USP)](https://www.youtube.com/watch?v=cbmh-rv0qi8)
+  * [Vídeo: interatividade (Ginga) na Copa do Mundo](https://www.youtube.com/watch?v=uryEkVX3LK4)
+  * [Plataforma de TV Digital CERTI](https://www.youtube.com/watch?v=QnIJMGFEKhI)
+  * [Aplicativo Interativo Ginga: Caixa Econômica](https://www.youtube.com/watch?v=km2Ugol3zsI)
+  * [Ciência Sem Limites - TV Digital Interativa](https://www.youtube.com/watch?v=ykvy-5IjWMQ)
+    (12/05/2014)
+  * [Programa ao Cubo](https://vimeo.com/85625655)
+
+### Other applications
+
+  * [TocantinsFight](https://github.com/luizcarvalho/TocantinsFight) is a
+    Ginga-NCL Appication for Tocantins Mixed Martial Art in Local TV.
+  * [GingaChatTV](https://github.com/luismeloni/GingaChatTV)
+  * [EnqueteTVD](https://github.com/manoelcampos/EnqueteTVD) is a quiz
+    application digital TV supporting the return channel.
+  * [TVDQuiz](https://github.com/manoelcampos/TVDQuiz) Aplicação de Quiz para o
+    Sistema Brasileiro de TV Digital (SBTVD/ISDB-TB).
+  * [Teclado Virtual (Virtual Keyboard)](http://code.google.com/p/tecladovirtualgingancl)
+  * [Ginga-Pizza](http://code.google.com/p/ginga-pizza)
+  * [Ginga Hero](https://github.com/rmcs87/GingaHero)
+  * [TodosContraDengue](https://github.com/carvalhorafael/TodosContraDengue)
+  * [JogoDaVelha](https://github.com/carvalhorafael/JogoDaVelha)
+  * [GingaBemTeVi](http://sourceforge.net/projects/gingabemtevi)
+  * [Ginga Unisinos](http://sourceforge.net/projects/ginga-unisinos)
+  * [Flappy Ginga](https://www.youtube.com/watch?v=KzZ6Rd6c6mg&list=UUyVuQq2Iyr5e8ecocaGq-OQ)
+
+
+## Ginga Communities
+NCL is part of the specification of Ginga middleware, the standard for
+terrestrial digital TV in most part of Latin America.
+
+Here, you can find the link for some of the communities in different countries
+working with Ginga and NCL:
+
+  * [Ginga Brasil](http://www.softwarepublico.gov.br/ver-comunidade?community_id=1101545)
+  * [Ginga Argentina](http://comunidad.ginga.org.ar)
+  * [Ginga Peru](http://www.gingaperu.org/comunidad)
+  * [Ginga Equador](http://www.ginga.org.ec/gingaec/index.php)
+  * [Ginga Bolivia](http://ginga.softwarelibre.org.bo)
+  * [Ginga Chile](http://www.comunidadginga.cl)
+
+## News
+
+A non-extensive list of news about Ginga and NCL.
+
+  * [Para Intel, TV Digital é uma porta brasileira para a IoT](https://www.youtube.com/watch?v=orCPmSNRQqA) (23/07/2016)
+  * [Intel: Brasil precisa articular o uso do Ginga como padrão global de interatividade](https://www.youtube.com/watch?v=wmJyjcRabDo) (14/07/2016)
+  * [Projeto dá acesso a serviços do governo pela televisão e ganha prêmio](http://www.opovo.com.br/app/maisnoticias/brasil/2014/08/28/noticiasbrasil,3305265/projeto-da-acesso-a-servicos-do-governo-pela-televisao-e-ganha-premio.shtml) (28/08/2014)
+  * [Emissoras de TV com sinal digital estudam implantar serviços do Detran](http://www.portaliguacu.com.br/web-e-tecnologia/emissoras-de-tv-com-sinal-digital-estudam-implantar-servicos-do-detran-1788) (05/07/2014)
+  * [Totvs e Panasonic anunciam solução para TV interativa em empresas](http://computerworld.com.br/tecnologia/2014/06/30/totvs-e-panasonic-anunciam-solucao-para-tv-interativa-em-empresas) (30/06/2014)
+  * [Totvs e Panasonic: canais de TV internos](http://www.baguete.com.br/noticias/30/06/2014/totvs-e-panasonic-canais-de-tv-internos) (30/06/2014)
+  * [Ginga será obrigatório nos conversores de TV Digital para Bolsa Família](http://convergenciadigital.uol.com.br/cgi/cgilua.exe/sys/start.htm?infoid=37181&sid=7#.U7_yjHKqfqQ) (10/07/2014)
+  * [O que é o Ginga?](http://tecnologia.ig.com.br/especial/o-que-e-o-ginga/n1597734545853.html) (09/04/2012)
+  * [No feriado, população pode acessar serviços do Detran pela TV](http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=79995&tit=No-feriado-populacao-pode-acessar-servicos-do-Detran-pela-TV&ordem=1000)
+  * [Infográfico: Como funciona o Ginga](http://tecnologia.ig.com.br/especial/infografico-como-funciona-o-ginga/n1597734566733.html)
+  * [TV Digital e desenvolvimento: padrões, tecnologias e oportunidades](http://www.infoq.com/br/articles/tvdigital-entrevista) (26/11/2012)
+  * [Ginga: A TV Digital com interatividade](http://tvfoco.pop.com.br/tv-foco/ginga-a-tv-digital-com-interatividade) (09/06/2012)
+
+## Other related links
+
+  * [Ginga DF](http://www.gingadf.com/blogGinga)
+  * [Manoel Campos' Home Page](http://manoelcampos.com)
+  * [TVDI](http://www.tvdi.inf.br/site)
+  * [Grupo Ginga Goias](http://grupogingagoias.com.br)
+  * [Ginga TV Digital]http://gingatvdigital.com)
+
 
