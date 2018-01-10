@@ -21,7 +21,7 @@ This page is a curated lists of resources supporting NCL and Ginga.
     [TeleMídia Lab/PUC-Rio](http://www.telemidia.puc-rio.br).
   * [Ginga.ar](http://tvd.lifia.info.unlp.edu.ar/ginga.ar/index.php/download)
     is a fork of Ginga-NCL Reference Implementation being developed by the
-    Argentine Community.
+    Argentine Community.  You can also find the most recent code [here](https://github.com/jbucar/tvd).
   * [GHTV NCL Player](https://github.com/expertisesolutions/ghtv-ncl-player)
     by [Expertise Solutions](http://www.expertisesolutions.com.br).
   * [WebNCL](https://github.com/lince/webncl.git) is a lightweight NCL
@@ -35,12 +35,14 @@ This page is a curated lists of resources supporting NCL and Ginga.
     presenting NCL documents in web browsers. It translates an NCL 3.0
     multimedia document into an HTM5 + JavaScript document using a XSLT
     Stylesheet.
-  * [NCLua](https://github.com/gflima/nclua) library.
+  * The [NCLua](https://github.com/gflima/nclua) library.
 
 ### Commercial players
 
   * [Mopa Embedded Systems](http://www.linkedin.com/company/mopa-embedded-systems)
   * [AstroDevNet](https://www.astrodevnet.com.br/AstroDevNet/home.html)
+
+### Virtual machines
 
 Some developers trying to easy the use of the system as a whole have created
 Virtual Machines with everything you need already configured.  It is the case
@@ -55,12 +57,13 @@ of:
     looks outdated!)
 
 ### Others
+
   * [Ginga CDN](http://gingacdn.lavid.ufpb.br)
   * [ffginga](http://code.google.com/p/ffginga) is a standard compliant free
     software implementation of the SBTVD middleware (Ginga-NCL and Ginga-J).
     (It looks outdated!).
   * [GingaBuild](http://code.google.com/p/gingabuild) is a shell script
-    program to install and configure a a Ginga development environment. (It
+    program to install and configure a Ginga development environment. (It
     looks outdated!)
 
 
@@ -81,10 +84,10 @@ of:
     objects, and that can export to NCL.
   * [NCL/Lua plug-in for Gedit](http://wiki.ginga.org.ar/doku.php?id=herramientas:plugin_gedit)
   * [NCL/Lua plug-in for Latex](http://wiki.ginga.org.ar/doku.php?id=herramientas:plugin_latex)
-  * [Berimbau iTV Author](http://www.batuque.tv/|Berimbau iTV Author) was
-    created focused on designers and media professionals, allowing them to
-    create interactive applications without programming knowledge. The tool is
-    free to use (but it is not open-source).
+  * [Berimbau iTV Author](http://www.batuque.tv) was created focused on
+    designers and media professionals, allowing them to create interactive
+    applications without programming knowledge. The tool is free to use (but
+    it is not open-source).
   * [Celula](http://www.youtube.com/watch?v=nRQUDaKiIsk) is an authoring tool
     developed by INCoD focused on creating interactive content for digital TV.
   * [CreaTVDigital](http://code.google.com/p/creatvdigital|CreaTVDigital) is a
@@ -122,7 +125,7 @@ of:
     C-based software for incremental validation of NCL documents.  Currently,
     its source code is integrated into
     [NCL Composer](http://composer.telemidia.puc-rio.br).
-  * [nclvs (NCL Validator Service)(http://validator.ncl.org.br) is an online
+  * [nclvs (NCL Validator Service)](http://validator.ncl.org.br) is an online
     validation service for NCL documents.
   * [ncl-inspector](http://code.google.com/p/ncl-inspector) is a rule-based
     critique system to evaluate NCL applications code quality automatically.
